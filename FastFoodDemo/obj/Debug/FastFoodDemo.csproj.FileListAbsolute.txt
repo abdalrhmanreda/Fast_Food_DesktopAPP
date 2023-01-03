@@ -1,0 +1,25 @@
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.Cache
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.AssemblyReference.cache
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.SuggestedBindingRedirects.cache
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.DevliveryUserControl.resources
+E:\thrid year\C# Project\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.PaymentUser.resources
